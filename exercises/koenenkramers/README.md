@@ -1,5 +1,7 @@
 Exercise Koenen-Kramers: Adapter & Factory Method
 =================================================
+Oorspronkelijke bron: https://github.com/ddoa/dea-code-examples/tree/master/exercises/koenenkramers
+
 Resources
 -------------
 The following resources are convenient during the exercise:
